@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrextravaganza.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\IoIoToTM\\Desktop\\Game Development\\3rd coursework\\VR Extravaganza\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR Extravaganza [Testing]"
+        }
+      }
+    }
+  ]
+}
